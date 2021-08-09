@@ -12,7 +12,21 @@ This course contains 4 differnet week talking about different topics in Computer
   * Concepts in Computer Vision
   * Advanced Transfer Learning
   * Object Localization and Detection
+* Week2:
+  * Object Detection
+  * Object Detection APIs
+* Week3:
+  * Image Segmentation
+  * U-Net
+* Week4:
+  * Visualization abd Interpretation
+  * Saliency
+  * Gradients and Class Activation Maps
+  * Imporving model with  Interpretation
 
 
 ## Projects
 * Bird Boxes
+* Zombie Detector
+* MNIST Segmentation
+* Cats vs Dogs Saliency Maps
